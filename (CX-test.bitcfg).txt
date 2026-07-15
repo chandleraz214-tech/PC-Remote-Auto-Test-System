@@ -1,0 +1,2 @@
+# BurnInTest 配置文件示例 - CX-test.bitcfg
+# 请在实际使用前，在 BurnInTest 界面中配置并保存覆盖此文件
